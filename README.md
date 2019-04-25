@@ -1,1 +1,3 @@
 # LiFi
+
+Communication using light.
